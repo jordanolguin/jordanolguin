@@ -1,0 +1,38 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <h1 align="center">👋 Hi, I’m Jordan!</h1>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<p align="center">Full Stack Dev by day, Yogi 🧘‍♂️, Musician 🎵, Singer 🎤, and Actor 🎭 by night. 🌟 I thrive on new experiences and challenges. From managing retail, to serving up delicious dishes, to stealing the spotlight on stage and screen, rocking live gigs, and finding zen on the yoga mat, I've dabbled in it all. 🌆🎬🎸</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>Technologies I use:</h2>
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,js,react,nodejs,express,mongodb,apollo,graphql,mysql,sequelize,heroku,html,css,regex,jest,bootstrap,vscode,discord&perline=9" />
+  </a>
+</p>  
+
+<h2>My Stats:</h2>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jordanolguin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordanolguin&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<h2>Let's Connect!</h2>
+ <a href="https://www.linkedin.com/in/jordan-olguin-5897b7280/">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=9" />
+  </a>
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
+<!---
+jordanolguin/jordanolguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
