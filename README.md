@@ -12,21 +12,19 @@
 
 <h2>Technologies I use:</h2>
 <p align="center">
- <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,js,react,nodejs,express,mongodb,apollo,graphql,mysql,sequelize,heroku,html,css,regex,jest,bootstrap,vscode,discord&perline=9" />
-  </a>
 </p>  
 
 <h2>My Stats:</h2>
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/jordanolguin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jordanolguin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordanolguin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 <h2>Let's Connect!</h2>
- <a href="https://www.linkedin.com/in/jordan-olguin-5897b7280/" target="blank">
+ <a href="https://www.linkedin.com/in/jordan-olguin-5897b7280/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=9" />
   </a>
 
