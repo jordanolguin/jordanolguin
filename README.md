@@ -12,7 +12,7 @@
 
 <h2>Technologies I use:</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,js,react,nodejs,express,mongodb,apollo,graphql,mysql,sequelize,heroku,html,css,regex,jest,bootstrap,vscode,discord&perline=9" />
+    <img src="https://skillicons.dev/icons?i=github,js,react,redux,nodejs,express,mongodb,apollo,graphql,mysql,sequelize,heroku,github,html,css,regex,jest,ts,bootstrap,vscode,discord,ai&perline=11" />
 </p>  
 
 <h2>My Stats:</h2>
