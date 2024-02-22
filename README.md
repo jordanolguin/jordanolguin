@@ -1,9 +1,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">👋 Hi, I’m Jordan!</h1>
 
-<div align="center">
-  <img src="https://github.com/jordanolguin/jordanolguin/blob/output/dist/ocean.gif" alt="Snake animation">
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <p align="center">Full Stack Dev by day, Yogi 🧘‍♂️, Musician 🎵, Singer 🎤, and Actor 🎭 by night. 🌟 I thrive on new experiences and challenges. From managing retail, to serving up delicious dishes, to stealing the spotlight on stage and screen, rocking live gigs, and finding zen on the yoga mat, I've dabbled in it all. 🌆🎬🎸</p>
 
