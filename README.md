@@ -1,9 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <h1 align="center">👋 Hi, I’m Jordan!</h1>
+<h1 align="center">👋 Hi, I’m Jordan!</h1>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/jordanolguin/jordanolguin/blob/output/dist/github-snake.svg" alt="Snake animation">
 </div>
 
 <p align="center">Full Stack Dev by day, Yogi 🧘‍♂️, Musician 🎵, Singer 🎤, and Actor 🎭 by night. 🌟 I thrive on new experiences and challenges. From managing retail, to serving up delicious dishes, to stealing the spotlight on stage and screen, rocking live gigs, and finding zen on the yoga mat, I've dabbled in it all. 🌆🎬🎸</p>
