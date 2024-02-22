@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I’m Jordan!</h1>
 
 <div align="center">
-  <img src="https://github.com/jordanolguin/jordanolguin/blob/output/dist/github-snake.svg" alt="Snake animation">
+  <img src="https://github.com/jordanolguin/jordanolguin/blob/output/dist/ocean.gif" alt="Snake animation">
 </div>
 
 <p align="center">Full Stack Dev by day, Yogi 🧘‍♂️, Musician 🎵, Singer 🎤, and Actor 🎭 by night. 🌟 I thrive on new experiences and challenges. From managing retail, to serving up delicious dishes, to stealing the spotlight on stage and screen, rocking live gigs, and finding zen on the yoga mat, I've dabbled in it all. 🌆🎬🎸</p>
