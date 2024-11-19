@@ -16,13 +16,13 @@
   />
 </picture>
 
-<p align="center">Full Stack Dev by day, Yogi 🧘‍♂️, Musician 🎵, Singer 🎤, and Actor 🎭 by night. 🌟 I thrive on new experiences and challenges. From managing retail, to serving up delicious dishes, to stealing the spotlight on stage and screen, rocking live gigs, and finding zen on the yoga mat, I've dabbled in it all. 🌆🎬🎸</p>
+<p align="center">Full Stack Developer by day, Yogi, Musicia, Singer, and Actor by night. I thrive on leadership, innovation, and crafting meaningful applications. From guiding app development teams to creating user-focused solutions, my journey reflects a blend of technical expertise and creative passion.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>Technologies I use:</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,js,react,redux,nodejs,express,mongodb,apollo,graphql,mysql,sequelize,heroku,github,html,css,regex,jest,ts,bootstrap,vscode,discord,ai&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,react,redux,threejs,nodejs,express,django,py,mongodb,apollo,graphql,mysql,sequelize,heroku,github,html,css,regex,ts,docker,vscode,vercel,netlify,cloudflare,apple,ai&perline=13" />
 </p>  
 
 <h2>My Stats:</h2>
