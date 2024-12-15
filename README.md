@@ -16,14 +16,24 @@
   />
 </picture>
 
-<p align="center">Full Stack Developer by day, Yogi, Musicia, Singer, and Actor by night. I thrive on leadership, innovation, and crafting meaningful applications. From guiding app development teams to creating user-focused solutions, my journey reflects a blend of technical expertise and creative passion.</p>
+<p align="center">
+    As a results-driven <strong>Full-Stack Developer</strong> and <strong>Technical Project Lead</strong>, I bring ideas to life by delivering sleek, scalable, and user-focused applications. From leading full-stack architecture to collaborating with clients, I specialize in <strong>React</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>, and <strong>API development</strong>. My journey blends technical expertise, creative passion, and leadership to build meaningful digital experiences that drive results. 🚀
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>Technologies I use:</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,redux,threejs,nodejs,express,django,py,mongodb,apollo,graphql,mysql,sequelize,heroku,github,html,css,regex,ts,docker,vscode,vercel,netlify,cloudflare,apple,ai&perline=13" />
-</p>  
+    <!-- Core Languages & Frameworks -->
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,threejs,django,py" />
+    <!-- Databases -->
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sequelize,graphql,apollo" />
+    <!-- DevOps & Deployment -->
+    <img src="https://skillicons.dev/icons?i=docker,heroku,vercel,netlify,cloudflare" />
+    <!-- Other Tools -->
+    <img src="https://skillicons.dev/icons?i=github,vscode,html,css,ai,regex" />
+</p>
+
 
 <h2>My Stats:</h2>
 <p align="center">
