@@ -34,7 +34,7 @@
 </p>
 
 <h2>Let's Connect!</h2>
- <a href="https://www.linkedin.com/in/jordan-olguin-5897b7280/" target="_blank">
+ <a href="https://www.linkedin.com/in/jordanolguin/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=9" />
   </a>
 
