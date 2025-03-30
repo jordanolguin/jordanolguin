@@ -44,9 +44,14 @@
 </p>
 
 <h2>Let's Connect!</h2>
- <a href="https://www.linkedin.com/in/jordanolguin/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=9" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jordanolguin/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  <a href="https://instagram.com/jordanolguin_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+</p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
