@@ -25,9 +25,9 @@
 <h2>Technologies I use:</h2>
 <p align="center">
     <!-- Core Languages & Frameworks -->
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,threejs,django,py" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,threejs,django,py,go" />
     <!-- Databases -->
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sequelize,graphql,apollo" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sequelize,postgres,graphql,apollo" />
     <!-- DevOps & Deployment -->
     <img src="https://skillicons.dev/icons?i=docker,heroku,vercel,netlify,cloudflare" />
     <!-- Other Tools -->
