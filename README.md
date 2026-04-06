@@ -25,11 +25,11 @@
 <h2>Technologies I use:</h2>
 <p align="center">
     <!-- Core Languages & Frameworks -->
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,threejs,django,py,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,react,redux,nodejs,express,threejs,django,py" />
     <!-- Databases -->
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,sequelize,postgres,graphql,apollo" />
     <!-- DevOps & Deployment -->
-    <img src="https://skillicons.dev/icons?i=docker,heroku,vercel,netlify,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,heroku,vercel,netlify,cloudflare" />
     <!-- Other Tools -->
     <img src="https://skillicons.dev/icons?i=github,vscode,html,css,ai,regex" />
 </p>
