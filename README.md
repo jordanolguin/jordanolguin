@@ -11,10 +11,6 @@ I build thoughtful digital experiences that blend engineering,
 creativity, and human connection.
 </p>
 
-<p align="center">
-<strong>Turning ideas into polished, scalable products — one commit at a time.</strong>
-</p>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
