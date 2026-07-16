@@ -48,7 +48,7 @@ creative ideas, I'm driven by the same philosophy:
 
 <p align="center">
 Outside of engineering, you'll usually find me practicing
-yoga, making music, performing, or pursuing the next
+yoga, making music, or pursuing the next
 challenge that pushes me to grow.
 </p>
 
@@ -139,22 +139,6 @@ and create meaningful experiences.
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- <h2 align="center">Let's Connect</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/jordanolguin/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/jordanolguin_" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-</p> -->
-
-<!-- <br> -->
 
 <h3 align="center">
 Stay curious. Build boldly.
