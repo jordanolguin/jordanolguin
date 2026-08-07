@@ -59,9 +59,7 @@ challenge that pushes me to grow.
 <p align="left">
 🔹 Building modern full-stack applications<br>
 🔹 Exploring AWS, Go, and scalable architectures<br>
-🔹 Creating immersive web experiences with React, Three.js, and GSAP<br>
-🔹 Growing as a technical leader<br>
-🔹 Sharing what I learn through creative projects
+🔹 Creating immersive web experiences with React, Three.js, and GSAP
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
